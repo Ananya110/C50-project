@@ -1,0 +1,24 @@
+h1 {
+    color: hotpink;
+}
+*{
+    border:inset;
+
+}
+.head{
+    background-color: rgb(0, 0, 0);
+    display:inline-table;
+    justify-content: center;
+}
+.site-description{
+    background-color: cadetblue;
+    display: flex;
+     flex-direction: column;
+    justify-content: first baseline;
+}
+.grid{ 
+    background-color: lightblue;
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: space-evenly; 
+}
